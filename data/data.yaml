@@ -1,0 +1,5 @@
+names:
+  0: crossing
+path: .
+val: val.txt
+train: train.txt

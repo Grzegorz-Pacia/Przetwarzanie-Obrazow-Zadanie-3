@@ -1,0 +1,10 @@
+data/images/val/crossing_preprocessed_1.jpg
+data/images/val/crossing_preprocessed_2.jpg
+data/images/val/crossing_preprocessed_3.jpg
+data/images/val/crossing_preprocessed_4.jpg
+data/images/val/crossing_preprocessed_5.jpg
+data/images/val/crossing_preprocessed_6.jpg
+data/images/val/crossing_preprocessed_7.jpg
+data/images/val/crossing_preprocessed_8.jpg
+data/images/val/crossing_preprocessed_9.jpg
+data/images/val/crossing_preprocessed_10.jpg
