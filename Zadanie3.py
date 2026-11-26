@@ -63,5 +63,8 @@ def main():
     plt.show() #pokazuje obrazy
 
 
+    model(source="files_for_detection/video.mp4", show=True, conf=0.25) #przeprowadza wykrywanie przejść dla pieszych dla pliku video
+
+
 if __name__ == "__main__":
     main()
